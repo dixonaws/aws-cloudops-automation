@@ -1,5 +1,5 @@
 ---
-title: "1.1 Cloudformation"
+title: "Cloudformation Labs"
 draft: false
 weight: 11
 ---
