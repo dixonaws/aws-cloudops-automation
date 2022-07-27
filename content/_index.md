@@ -1,12 +1,12 @@
 ---
-title: "Amazon CloudOps Security Workshop"
+title: "Amazon CloudOps Infrastructure and Automation Workshop"
 chapter: true
 weight: 10
 ---
 
 ### Welcome Students!
 
-# Amazon CloudOps Security Workshop
+# Amazon CloudOps Infrastructure and Automation Workshop
 
 {{% notice info%}}
 Add yourself to the [class roster](https://docs.google.com/spreadsheets/d/1xxHMJ_m2R-VvTCkJWQvTv6I2geRETGq9m9ezoIEyBxw/edit?usp=sharing) and update your progress as you go through the workshop!
@@ -22,6 +22,6 @@ We'll have instructor-led sessions to make sure everyone can to get through the 
 <br>
 Your Tourguides:
 
-| ![John Dixon](/images/dixonaws.png?height=250px&classes=shadow,border)                    | ![Rim Zaafouri](/images/rimzaaf.png?height=250px&classes=shadow,border)            | 
-|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| <center>John Dixon<br>Solutions Architect, AWS<br>München, Germany<br>Instructor</center> | <center>Rim Zaafouri<br>Solutions Architect, AWS<br>Paris, France<br>Content Creator</center> | &nbsp;                                                          |
+| ![John Dixon](/images/dixonaws.png?height=250px&classes=shadow,border)                    
+|-------------------------------------------------------------------------------------------
+| <center>John Dixon<br>Solutions Architect, AWS<br>München, Germany<br>Instructor</center> 

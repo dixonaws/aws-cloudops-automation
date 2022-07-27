@@ -1,4 +1,4 @@
-# aws-cloudops-security
+# aws-cloudops-automation
 
 ### Setup:
 
